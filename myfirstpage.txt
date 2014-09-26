@@ -11,20 +11,46 @@
 			color: white;
 		}
 
-		p1 {
-			font-size: 20 px;
-			font-color: white;
+		h1 {
+			text-align: center;
+			color: black;
+			font-family: "Helvetica Neue", helvetica, san-serif;
 		}
 
-		p2 {
-			font-size: 20 px;
-			font-color: black;
-		}		
-	</style>
+		p1 {
+			font-size: 18px;
+			color: black;
+			font-family: "Helvetica Neue", helvetica, san-serif;
+		}
 
+		input {
+			border: 1px;
+			padding: 10px;
+			font-size: 2px;
+		}
+	
+		input[type="submit"] {
+			background: black;
+			color: pink;
+		}	
+	</style>
 </head>
 
 <body>
-<p1>Hi! This is one of my webpages. I will add more to it! Stay tuned! All good wishes, Jasmine.</p1>
 
+<script>
+alert("Hope you enjoy my website!");
+</script>
+
+<h1>Welcome to Jasmine's <b>Awesome</b> New Website!!!</h1>
+
+<p1>Hi! This is my first webpage. I will add more to it! Stay tuned! I'll "talk" with you soon!
+<br><br>
+This will be about my school newspaper club! Now, you may think: newspaper? What does that have to do with <b>anything</b>? Wait for it, wait for it: there is a <i>technology portion</i>!!!!
+</br></br>
+
+<br><br>
+Are you in any clubs at your school? Submit in the comment box below. In the comment box, also input your email and feedback on the webpage. Anything to add, change, etc.</p1>
+</br></br>
+<input type="feedback" placeholder="Feedback & Clubs"><input type="submit">
 </body>
