@@ -3,9 +3,28 @@
 <head>
 	<title>Jasmine's Webpage</title>
 	<style>
-		
+		body {
+			text-align: center;
+			background: url("http://www.hdwallsweb.com/wp-content/uploads/2013/07/25/love-heart-background-54.jpg");
+			background-size: cover;
+			background-postion: center;
+			color: white;
+		}
+
+		p1 {
+			font-size: 20 px;
+			font-color: white;
+		}
+
+		p2 {
+			font-size: 20 px;
+			font-color: black;
+		}		
 	</style>
+
 </head>
 
 <body>
+<p1>Hi! This is one of my webpages. I will add more to it! Stay tuned! All good wishes, Jasmine.</p1>
+
 </body>
